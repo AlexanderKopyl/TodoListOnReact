@@ -1,0 +1,9 @@
+.container{
+    max-width: 600px;
+}
+
+.serch-panel-box{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}

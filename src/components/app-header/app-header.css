@@ -1,0 +1,9 @@
+.box-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.badge{
+    margin-right: 5px;
+    margin-left:5px;
+}
