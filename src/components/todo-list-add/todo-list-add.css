@@ -1,0 +1,8 @@
+.add-group{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.add-input{
+    margin-right: 10px;
+}

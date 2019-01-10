@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/components/app/app.js" line="22" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="253502ae-4ac9-407a-bc8f-b2c40232cca2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/app-header/app-header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app-header/app-header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/item-status-filter/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/serch-panel/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/serch-panel/serch-panel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/serch-panel/serch-panel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list-item/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todo-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todo-list-add/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todo-list-add/todo-list-add.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todo-list-add/todo-list-add.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app-header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/serch-panel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/todo-list-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-header/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/todo-list-item.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/todo-list.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/todo-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app-header/app-header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-header/app-header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/serch-panel/serch-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/serch-panel/serch-panel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,59 +24,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/todo-list/todo-list.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#38#0" expanded="true" />
+                <element signature="e#934#1261#0" />
+                <element signature="e#1284#1768#0" />
+                <element signature="e#1801#1965#0" />
+                <element signature="e#1993#2150#0" />
+                <element signature="e#2197#2407#0" />
+                <element signature="e#2175#2191#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -94,20 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/serch-panel/serch-panel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="484">
+              <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -117,8 +56,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -127,6 +66,21 @@
       <find>pickup</find>
       <find>form</find>
       <find>pickup_adress</find>
+      <find>WP_TEMP_DIR</find>
+      <find>Lang</find>
+      <find>top-bar</find>
+      <find>Language Detection</find>
+      <find>messages</find>
+      <find>progroman</find>
+      <find>progroman_city_manager</find>
+      <find>data-</find>
+      <find>getMessages</find>
+      <find>default</find>
+      <find>Prmn.CitySwitcher.prototype.setContent</find>
+      <find>setContent</find>
+      <find>loadData</find>
+      <find>Prmn.CityMessage.prototype.setContent</find>
+      <find>Content</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -135,12 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="D:/GrilliShipping/pickup_adress.php" />
-        <option value="D:/GrilliShipping/admin/language/russian/shipping/pickup_adress.php" />
-        <option value="D:/GrilliShipping/admin/view/template/sh﻿ippin﻿g/pickup_adress.tpl" />
-        <option value="D:/GrilliShipping/admin/controller/shipping/pickup_adress.php" />
-        <option value="D:/GrilliShipping/catalog/model/shipping/pickup.php" />
-        <option value="D:/GrilliShipping/catalog/language/rus﻿sian/﻿shipping/pickup_adress.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup_adress.tpl" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup_adress 2.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup_adress.php" />
@@ -165,17 +113,39 @@
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/components/serch-panel/index.js" />
         <option value="$PROJECT_DIR$/src/components/todo-list/index.js" />
-        <option value="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" />
         <option value="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.css" />
-        <option value="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" />
+        <option value="$PROJECT_DIR$/src/components/todo-list-add/index.js" />
+        <option value="$PROJECT_DIR$/src/components/todo-list-add/todo-list-add.css" />
+        <option value="$PROJECT_DIR$/src/components/app-header/app-header.js" />
         <option value="$PROJECT_DIR$/src/components/todo-list/todo-list.js" />
+        <option value="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/.htaccess" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/phpInfo.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/wp-config 2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/index.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/header.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/mega.tpl" />
+        <option value="$PROJECT_DIR$/src/components/todo-list-add/todo-list-add.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/test.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/weebHook.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/mega.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/test 2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/customer.php" />
+        <option value="C:/Рабочая Папка/Garbedj/geoip7.2_opencart-2.0-2.2/upload/catalog/controller/module/progroman/city_manager.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/city_manager.php" />
+        <option value="C:/Рабочая Папка/Garbedj/geoip7.2_opencart-2.0-2.2/upload/catalog/view/javascript/progroman/jquery.progroman.city-manager.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/jquery.progroman.city-manager.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/jquery.progroman.city-manager 2.js" />
+        <option value="$PROJECT_DIR$/src/components/serch-panel/serch-panel.js" />
+        <option value="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" />
         <option value="$PROJECT_DIR$/src/components/app/app.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="308" />
-    <option name="y" value="65" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="60" />
+    <option name="y" value="207" />
     <option name="width" value="1026" />
     <option name="height" value="546" />
   </component>
@@ -184,7 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,10 +179,18 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TodoListOnReact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TodoListOnReact" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="item-status-filter" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,12 +242,14 @@
       <workItem from="1546857852247" duration="7245000" />
       <workItem from="1546874119469" duration="7573000" />
       <workItem from="1546931934035" duration="347000" />
-      <workItem from="1546932300079" duration="17180000" />
+      <workItem from="1546932300079" duration="17939000" />
+      <workItem from="1547016138434" duration="18966000" />
+      <workItem from="1547103166418" duration="20397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32345000" />
+    <option name="totallyTimeSpent" value="72467000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -285,7 +264,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09968017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -300,7 +279,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.14626218" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -311,77 +290,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/GrilliShipping/pickup_adress.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/royal_mail.php" />
-    <entry file="file://D:/GrilliShipping/catalog/model/shipping/pickup.php" />
-    <entry file="file://D:/GrilliShipping/admin/controller/shipping/pickup_adress.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup_adress.tpl" />
-    <entry file="file://D:/GrilliShipping/admin/view/template/sh﻿ippin﻿g/pickup_adress.tpl" />
-    <entry file="file://D:/GrilliShipping/catalog/language/rus﻿sian/﻿shipping/pickup_adress.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup_adress 3.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup_adress 2.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup_adress.php" />
-    <entry file="file://D:/GrilliShipping/admin/language/russian/shipping/pickup_adress.php" />
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="113" selection-start-line="9" selection-start-column="113" selection-end-line="9" selection-end-column="113" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/GrilliNew/Module/opencart_pro_2_3_0_2_5/opencart_pro_2_3_0_2_5/source.txt" />
-    <entry file="file://D:/GrilliNew/Module/opencart_pro_2_3_0_2_5/opencart_pro_2_3_0_2_5/license.txt" />
-    <entry file="file://$PROJECT_DIR$/src/components/todo-list/todo-list.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/wp-settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9017" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="56" selection-start-line="56" selection-end-line="56" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/app-header/app-header.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/app-header/app-header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -406,9 +318,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.css" />
     <entry file="file://$PROJECT_DIR$/src/components/app/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -420,16 +330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -454,20 +354,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/serch-panel/serch-panel.js">
+    <entry file="file://$PROJECT_DIR$/src/components/todo-list/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/todo-list-add/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/todo-list-add/todo-list-add.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/wp-config.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/phpInfo.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/.htaccess" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/wp-config 2.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/index.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/header.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/mega.tpl" />
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state>
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/todo-list/todo-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/app-header/app-header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -478,39 +423,224 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/todo-list/index.js">
+    <entry file="file://$PROJECT_DIR$/src/components/todo-list-add/todo-list-add.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/todo-list/todo-list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="154">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="303">
+          <caret line="157" column="14" selection-start-line="157" selection-start-column="14" selection-end-line="157" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/weebHook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="71" column="39" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/test 2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Рабочая Папка/Garbedj/geoip7.2_opencart-2.0-2.2/upload/admin/controller/module/progroman_city_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="119" column="23" selection-start-line="119" selection-start-column="15" selection-end-line="119" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/city_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="n#cities#0;n#ControllerModuleProgromanCityManager#0;n#!!top" />
+            <element signature="n#search#0;n#ControllerModuleProgromanCityManager#0;n#!!top" />
+            <element signature="n#save#0;n#ControllerModuleProgromanCityManager#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/latest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/city_manager 2.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Рабочая Папка/Garbedj/geoip7.2_opencart-2.0-2.2/upload/catalog/view/theme/default/template/module/progroman/city_manager/content.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Рабочая Папка/Garbedj/geoip7.2_opencart-2.0-2.2/upload/catalog/view/javascript/progroman/progroman.city-manager.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Рабочая Папка/Garbedj/geoip7.2_opencart-2.0-2.2/upload/catalog/view/javascript/progroman/jquery.progroman.autocomplete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1980" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Рабочая Папка/Garbedj/geoip7.2_opencart-2.0-2.2/upload/system/library/progroman/citymanager/citymanager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/jquery.progroman.city-manager 2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="179" lean-forward="true" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/jquery.progroman.city-manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="177" column="22" selection-start-line="177" selection-start-column="22" selection-end-line="177" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Рабочая Папка/Garbedj/geoip7.2_opencart-2.0-2.2/upload/catalog/view/javascript/progroman/jquery.progroman.city-manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="175" column="37" selection-start-line="175" selection-end-line="175" selection-end-column="37" />
+          <folding>
+            <element signature="e#84#276#0" />
+            <element signature="e#307#332#0" />
+            <element signature="e#389#450#0" />
+            <element signature="e#506#565#0" />
+            <element signature="e#1721#2441#0" />
+            <element signature="e#2499#3380#0" />
+            <element signature="e#3433#3670#0" />
+            <element signature="e#3725#4252#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Рабочая Папка/Garbedj/geoip7.2_opencart-2.0-2.2/upload/catalog/controller/module/progroman/city_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="29" column="79" lean-forward="true" selection-start-line="29" selection-start-column="79" selection-end-line="29" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Рабочая Папка/Garbedj/geoip7.2_opencart-2.0-2.2/upload/catalog/model/progroman/city_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Рабочая Папка/Garbedj/geoip7.2_opencart-2.0-2.2/upload/catalog/model/progroman/fias.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="92" column="54" selection-start-line="92" selection-start-column="54" selection-end-line="92" selection-end-column="54" />
+          <folding>
+            <element signature="n#findFiasByName#0;n#ModelProgromanFias#0;n#!!top" />
+            <element signature="n#getFiasById#0;n#ModelProgromanFias#0;n#!!top" />
+            <element signature="n#getFias#0;n#ModelProgromanFias#0;n#!!top" />
+            <element signature="n#findCountryAndZone#0;n#ModelProgromanFias#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Рабочая Папка/Garbedj/geoip7.2_opencart-2.0-2.2/upload/admin/model/progroman/city_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="n#getCities#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#getRedirects#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#getCurrencies#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#getCustomerGroups#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#getFiasCountries#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#getFiasRegions#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#getZonesForCountry#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#editCities#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#editMessages#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#editRedirects#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#editCurrencies#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#editCustomerGroups#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#editCountryToFias#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#editZoneToFias#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#clearCities#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#clearMessages#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#clearRedirects#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#clearCurrencies#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#clearCustomeprGroups#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#clearCountryToFias#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#clearZoneToFias#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#getFiasName#0;n#ModelProgromanCityManager#0;n#!!top" />
+            <element signature="n#findFiasByName#0;n#ModelProgromanCityManager#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/mega.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="82" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/serch-panel/serch-panel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        <state relative-caret-position="264">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#934#1261#0" />
+            <element signature="e#1284#1768#0" />
+            <element signature="e#1801#1965#0" />
+            <element signature="e#1993#2150#0" />
+            <element signature="e#2197#2407#0" />
+            <element signature="e#2175#2191#0" />
           </folding>
         </state>
       </provider>
